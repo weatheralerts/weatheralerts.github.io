@@ -1,2 +1,9 @@
 User-agent: *
 Allow: /
+Sitemap: https://weatheralerts.github.io/travel/sitemap.xml
+Sitemap: https://weatheralerts.github.io/caregivers/sitemap.xml
+Sitemap: https://weatheralerts.github.io/homeowners/sitemap.xml
+Sitemap: https://weatheralerts.github.io/commuters/sitemap.xml
+Sitemap: https://weatheralerts.github.io/de/sitemap.xml
+Sitemap: https://weatheralerts.github.io/pl/sitemap.xml
+Sitemap: https://weatheralerts.github.io/es/sitemap.xml
